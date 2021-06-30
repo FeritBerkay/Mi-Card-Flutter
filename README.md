@@ -1,6 +1,7 @@
 # Mi Card
 ![Screenshot_1624967937](https://user-images.githubusercontent.com/76204009/123793582-8b8aac00-d8ea-11eb-82a3-3f76a5b5f594.png)
 
+![untitled](https://user-images.githubusercontent.com/76204009/123947617-3e214400-d9a9-11eb-98e3-bc2a1fb30f5e.gif)
 
 ## Getting Started
 
